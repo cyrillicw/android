@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Test</string>
+    <string name="toFramePuzzle">To Frame Puzzle</string>
+    <string name="toRelativePuzzle">To Relative Puzzle</string>
+</resources>
